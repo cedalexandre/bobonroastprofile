@@ -1,10 +1,10 @@
 import firebase from 'firebase';
 
 const firebaseConf = {
-  apiKey: "AIzaSyAHHNXxfL04NxxSYBIawr1qG15p6L9gex0",
-  authDomain: "bobonroast.firebaseapp.com",
-  databaseURL: "https://bobonroast.firebaseio.com",
-  storageBucket: "bobonroast.appspot.com"
+    apiKey: "AIzaSyC7IC7GqV8q4_77FqbUZ4V4Zf_UvJ_9YaY",
+    authDomain: "so-project-166215.firebaseapp.com",
+    databaseURL: "https://so-project-166215.firebaseio.com",
+    storageBucket: "so-project-166215.appspot.com",
 };
 firebase.initializeApp(firebaseConf);
 
